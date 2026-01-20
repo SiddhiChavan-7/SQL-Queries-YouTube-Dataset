@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS revenue;
+DROP TABLE IF EXISTS likes_dislikes;
+DROP TABLE IF EXISTS daily_views;
+DROP TABLE IF EXISTS comments;
+DROP TABLE IF EXISTS videos;
+DROP TABLE IF EXISTS creators;
+
